@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FrontEnd%20Developer%20KIM,JISOO👋&fontSize=40&animation=scaleIn)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcw3598rt%2Fhit-counter&count_bg=%230EA6ED&title_bg=%2361C9FF&icon=&icon_color=%23DB1D1D&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 - 👋 Hi, I’m @cw3598rt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
