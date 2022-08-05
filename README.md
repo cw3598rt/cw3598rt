@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=frontEnd Developer KIM,JISOO👋%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=frontEnd%20Developer%20KIM,JISOO👋&fontSize=40&animation=scaleIn)
 
 - 👋 Hi, I’m @cw3598rt
 - 👀 I’m interested in ...
